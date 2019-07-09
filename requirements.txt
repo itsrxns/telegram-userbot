@@ -1,0 +1,6 @@
+toml
+pyrogram
+tgcrypto
+requests
+pyyaml
+pillow
